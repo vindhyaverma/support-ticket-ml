@@ -68,4 +68,4 @@ This system:
 - Jupyter Notebook
 
 ## Author
-Built as part of **Future Interns – Machine Learning Task 2 (2026)**
+Vindhya Verma
